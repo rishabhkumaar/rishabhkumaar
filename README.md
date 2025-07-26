@@ -1,5 +1,3 @@
-# rishabhkumaar/README.md
-
 ## Introduction
 👋 Hi, I’m @rishabhkumaar
 
@@ -7,7 +5,7 @@
 
 ## About Me
 👨‍💻 Programming is my passion and hobby.  
-🌐 Self-taught in Python, JavaScript, HTML, CSS, and exploring other languages.  
+🌐 Knows Python, JavaScript, HTML, CSS, and exploring other languages.  
 📚 I’m all about learning new things through online resources.  
 🚀 Currently focusing on building my career and improving my skills.  
 🌟 One day, I hope you'll find some exciting projects in my repositories!  
@@ -33,10 +31,10 @@ Feel free to connect and join me on my journey into the world of coding.
 ---
 
 ## Contact & Socials
-- [Twitter](https://twitter.com/rishabhkumaar)
+- [Instagram](https://instagram.com/rishabhkumaaaar)
 - [LinkedIn](https://www.linkedin.com/in/rishabhkumaar)
-- [Dev.to](https://dev.to/rishabhkumaar)
-- [Personal Website](https://rishabhkumaar.com)
+- [YouTube](https://www.youtube.com/@rishabhkumaar)
+
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
