@@ -1,55 +1,35 @@
-## Introduction
-👋 Hi, I’m @rishabhkumaar
+## 👋 Hi there, I'm Rishabh Kumar
 
 ---
 
-## About Me
-👨‍💻 Programming is my passion and hobby.  
-🌐 Knows Python, JavaScript, HTML, CSS, and exploring other languages.  
-📚 I’m all about learning new things through online resources.  
-🚀 Currently focusing on building my career and improving my skills.  
-🌟 One day, I hope you'll find some exciting projects in my repositories!  
-Feel free to connect and join me on my journey into the world of coding.  
+## 💡 About Me
+- 👨‍💻 I'm a beginner programmer, passionate about learning and building cool stuff.
+- 🌱 Currently exploring Python, HTML, CSS & JavaScript.
+- 📚 I learn from online tutorials and hands-on practice.
+- 🚀 Slowly building my projects and improving my skills every day.
 
 ---
 
-## GitHub Stats
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhkumaar&count_private=true&show_icons=true&hide_title=true)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhkumaar&show_icons=true&hide_title=true&count_private=true)
 
-## GitHub Streak
+## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumaar&theme=dark)
 
-## Top Languages
+## 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumaar&layout=compact&theme=dark)
-
-## Contributions
-![Rishabh's Contributions](https://activity-graph.herokuapp.com/graph?username=rishabhkumaar&theme=github&hide_border=true)
-
-## Visitors
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rishabhkumaar)
 
 ---
 
-## Contact & Socials
-- [Instagram](https://instagram.com/rishabhkumaaaar)
-- [LinkedIn](https://www.linkedin.com/in/rishabhkumaar)
-- [YouTube](https://www.youtube.com/@rishabhkumaar)
+## 🌐 Let's Connect
+- 📸 [Instagram](https://instagram.com/rishabhkumaaaar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rishabhkumaar)
+- 🎥 [YouTube](https://www.youtube.com/@rishabhkumaar)
 
+---
 
-## License
+## 📌 Visitor Count
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rishabhkumaar)
+
+## 📄 License
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
-<!--
-**rishabhkumaar/rishabhkumaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
