@@ -4,7 +4,7 @@
 
 ## 💡 About Me
 - 👨‍💻 I'm a beginner programmer, passionate about learning and building cool stuff.
-- 🌱 Currently exploring Python, HTML, CSS & JavaScript.
+- 🌱 Currently exploring C, Python, HTML, CSS & JavaScript.
 - 📚 I learn from online tutorials and hands-on practice.
 - 🚀 Slowly building my projects and improving my skills every day.
 
