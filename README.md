@@ -1,14 +1,14 @@
-# 👋 Hi, I’m **Rishabh Kumar**
+# Hi, I’m **Rishabh Kumar**
 
 > *Aspiring Developer | Tech Explorer | Lifelong Learner*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=00F7D3&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rishabh+Kumar;Beginner+Web+Developer+%F0%9F%9A%80;I+love+to+build+and+learn+new+tech+%F0%9F%9A%80;Exploring+Python+%7C+JS+%7C+Web+Dev+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=00F7D3&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rishabh+Kumar;Beginner+Web+Developer;I+love+to+build+and+learn+new+tech+%F0%9F%9A%80;Exploring+Python+%7C+JS+%7C+Web+Dev+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 Name: Rishabh Kumar
@@ -52,8 +52,8 @@ Goal: Grow through daily coding and open source
 > *Add these manually by pinning repositories on your GitHub profile*
 
 <p align="center">
-  <a href="https://github.com/rishabhkumaar/your-project-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=your-project-1&theme=radical" /></a>
-  <a href="https://github.com/rishabhkumaar/your-project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=your-project-2&theme=radical" /></a>
+  <a href="https://github.com/rishabhkumaar/your-project-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=python&theme=radical" /></a>
+  <a href="https://github.com/rishabhkumaar/your-project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=weather&theme=radical" /></a>
 </p>
 
 ---
