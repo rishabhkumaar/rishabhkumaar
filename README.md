@@ -1,76 +1,109 @@
-<!-- Profile README for rishabhkumaar -->
+# Hi, I’m **Rishabh Kumar**
 
-<h1 align="center">Hi there, I'm Rishabh Kumar 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Developer+%7C+BTech+Student+at+LPU;Always+learning+something+new+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+> *Aspiring Developer | Tech Explorer | Lifelong Learner*
 
 <p align="center">
-  <a href="https://github.com/rishabhkumaar?tab=followers">
-    <img src="https://img.shields.io/github/followers/rishabhkumaar?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rishabhkumaar&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=00F7D3&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rishabh+Kumar;Beginner+Web+Developer;I+love+to+build+and+learn+new+tech+%F0%9F%9A%80;Exploring+Python+%7C+JS+%7C+Web+Dev+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍🎓 About Me
+## About Me
 
-<!-- Replace this with your custom bio -->
-I'm a passionate student currently pursuing a BTech in Computer Science and Engineering at Lovely Professional University (LPU). As a beginner in the world of programming, I'm always eager to learn new technologies, build projects, and help fellow learners!
-
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-<br>
-<em>Currently learning and expanding my skill set every day!</em>
+```yaml
+Name: Rishabh Kumar
+Role: Beginner Web & Software Developer
+Focus: Learning fundamentals and building projects
+Languages: [C, Python, HTML, CSS, JavaScript]
+Tools: [VSCode, Git, GitHub, Figma]
+Interests: Web Dev, Frontend, Problem Solving
+Goal: Grow through daily coding and open source
+```
 
 ---
 
-### 📚 Featured Projects
-
-- [python](https://github.com/rishabhkumaar/python) &nbsp;:book: &mdash; Study materials for Python beginners and quick recaps!
-- More soon: HTML, CSS, JavaScript, and more beginner-friendly study guides coming up!
-
----
-
-### 🌐 Connect with Me
-
-<!-- Replace the `#` with your actual links -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Twitter/X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white)](#)
-
----
-
-### 🎉 Fun Facts / Hobbies
-
-<!-- 
-- ✍️ I love writing blogs about tech and student life!
-- 📷 Amateur photographer in my free time.
-- 🤝 Always open to collaborate on beginner-friendly projects.
-- 🎧 Music helps me code better!
--->
-
----
-
-### 📊 GitHub Stats
+## 🛠 Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhkumaar&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumaar&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishabhkumaar&show_icons=true&theme=radical&count_private=true&hide_title=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumaar&theme=radical" />
+</div>
+
+---
+
+## Most Used Languages
+
 <p align="center">
-  <img src="https://github.com/rishabhkumaar/rishabhkumaar/raw/main/wave.svg" alt="Wave" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumaar&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
+
+---
+
+## Pinned Projects
+
+> *Add these manually by pinning repositories on your GitHub profile*
+
+<p align="center">
+  <a href="https://github.com/rishabhkumaar/your-project-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=python&theme=radical" /></a>
+  <a href="https://github.com/rishabhkumaar/your-project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=markdown&theme=radical" /></a>
+</p>
+
+---
+
+## 🌟 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rishabhkumaar&theme=dracula&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/rishabhkumaar/rishabhkumaar/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💡 Inspirational Quote
+
+> *“First, solve the problem. Then, write the code.” – John Johnson*
+
+> *“The best way to predict the future is to invent it.” – Alan Kay*
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://instagram.com/rishabhkumaaaar"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rishabhkumaar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@rishabhkumaar"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+## 👀 Visitor Badge
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabhkumaar&style=for-the-badge&color=29B6F6" />
+</p>
+
+---
+
+## 📜 License
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/rishabhkumaar/rishabhkumaar?style=for-the-badge&color=29B6F6"/>
+</p>
+
+---
