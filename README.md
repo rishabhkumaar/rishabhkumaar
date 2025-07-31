@@ -54,6 +54,7 @@ Goal: Grow through daily coding and open source
 <p align="center">
   <a href="https://github.com/rishabhkumaar/your-project-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=python&theme=radical" /></a>
   <a href="https://github.com/rishabhkumaar/your-project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=markdown&theme=radical" /></a>
+  <a href="https://github.com/rishabhkumaar/your-project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=discord&theme=radical" /></a>
 </p>
 
 ---
