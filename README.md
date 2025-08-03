@@ -22,7 +22,7 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 🛠 Tech Toolbox
+## Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode,figma&theme=dark" />
@@ -59,7 +59,7 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 🌟 GitHub Activity Graph
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rishabhkumaar&theme=dracula&area=true&hide_border=true" />
@@ -67,15 +67,7 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/rishabhkumaar/rishabhkumaar/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 💡 Inspirational Quote
+## Inspirational Quote
 
 > *“First, solve the problem. Then, write the code.” – John Johnson*
 
@@ -83,7 +75,7 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 🌐 Let's Connect
+## Social Platforms
 
 <p align="center">
   <a href="https://instagram.com/rishabhkumaaaar"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -93,7 +85,7 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 👀 Visitor Badge
+## Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishabhkumaar&style=for-the-badge&color=29B6F6" />
@@ -101,7 +93,7 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 📜 License
+## License
 
 <p align="center">
   <img src="https://img.shields.io/github/license/rishabhkumaar/rishabhkumaar?style=for-the-badge&color=29B6F6"/>
