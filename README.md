@@ -1,14 +1,15 @@
 <!-- Banner -->
-<h1 align="center">Hi, I’m <span style="color:#00F7D3">Rishabh Kumar</span> 👋</h1>
-<h3 align="center"><em>Aspiring Developer | Tech Explorer | Lifelong Learner</em></h3>
+
+<h1 align="center">Hi, I’m <span style="color:#00F7D3">Rishabh Kumar</span></h1>
+<h3 align="center"><em>Aspiring Developer | Technology Enthusiast | Continuous Learner</em></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=00F7D3&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rishabh+Kumar;Beginner+Web+Developer;I+love+to+build+and+learn+new+tech+%F0%9F%9A%80;Exploring+Python+%7C+JS+%7C+Web+Dev+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=00F7D3&center=true&vCenter=true&width=600&lines=Hello,+I'm+Rishabh+Kumar;Beginner+Web+Developer;Passionate+about+learning+and+building;Exploring+Python,+JavaScript,+and+Web+Development" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 <p align="center">
   <img src="https://rishabhkumaar.github.io/html/resources/rishabh.jpg" alt="Rishabh Kumar" width="180" style="border-radius: 50%; box-shadow: 0 0 15px #00f7d3;">
@@ -16,17 +17,17 @@
 
 ```yaml
 Name: Rishabh Kumar
-Role: Beginner Web & Software Developer
-Focus: Learning fundamentals and building projects
+Role: Web & Software Development Enthusiast
+Focus: Strengthening fundamentals and creating meaningful projects
 Languages: [C, Python, HTML, CSS, JavaScript]
 Tools: [VSCode, Git, GitHub, Figma]
-Interests: Web Dev, Frontend, Problem Solving
-Goal: Grow through daily coding and open source
-````
+Interests: Frontend Development, Web Technologies, Problem Solving
+Goal: To grow through consistent practice, collaboration, and contribution to open source
+```
 
 ---
 
-## 🧰 Tech Toolbox
+## Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode,figma&theme=dark" />
@@ -34,7 +35,7 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## GitHub Insights
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishabhkumaar&show_icons=true&theme=tokyonight&count_private=true" />
@@ -47,7 +48,7 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 🔥 Most Used Languages
+## Language Usage Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumaar&layout=compact&theme=tokyonight&langs_count=6" />
@@ -55,7 +56,7 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 📌 Pinned Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/rishabhkumaar/python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=python&theme=tokyonight" /></a>
@@ -64,7 +65,7 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 🗺️ GitHub Activity Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkumaar&theme=tokyo-night&area=true&hide_border=true" />
@@ -72,15 +73,14 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## ✨ Quotes to Code By
+## Quotes that Inspire My Work
 
 > *“First, solve the problem. Then, write the code.” – John Johnson*
-
 > *“The best way to predict the future is to invent it.” – Alan Kay*
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/rishabhkumaar"><img src="https://img.shields.io/badge/GitHub-rishabhkumaar-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -92,7 +92,7 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 👁️ Visitor Count
+## Visitor Analytics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishabhkumaar&style=for-the-badge&color=29B6F6" alt="Visitor Count"/>
@@ -100,13 +100,13 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## 📝 License
+## License
 
 <p align="center">
   <img src="https://img.shields.io/github/license/rishabhkumaar/html?style=for-the-badge&color=29B6F6" alt="License"/>
 </p>
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-You're free to use, distribute, and modify it with proper attribution.
+This project is distributed under the [MIT License](https://opensource.org/licenses/MIT).
+You are free to use, modify, and share it with appropriate attribution.
 
 ---
