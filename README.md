@@ -53,8 +53,7 @@ Goal: Grow through daily coding and open source
 
 <p align="center">
   <a href="https://github.com/rishabhkumaar/your-project-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=python&theme=radical" /></a>
-  <a href="https://github.com/rishabhkumaar/your-project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=markdown&theme=radical" /></a>
-  <a href="https://github.com/rishabhkumaar/your-project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=discord&theme=radical" /></a>
+  <a href="https://github.com/rishabhkumaar/your-project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=html&theme=radical" /></a>
 </p>
 
 ---
@@ -85,18 +84,42 @@ Goal: Grow through daily coding and open source
 
 ---
 
-## Visitor Count
+## 📊 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishabhkumaar&style=for-the-badge&color=29B6F6" />
+  <img src="https://komarev.com/ghpvc/?username=rishabhkumaar&style=for-the-badge&color=29B6F6" alt="Visitor Count"/>
 </p>
 
 ---
 
-## License
+## 📄 License
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/rishabhkumaar/rishabhkumaar?style=for-the-badge&color=29B6F6"/>
+  <img src="https://img.shields.io/github/license/rishabhkumaar/html?style=for-the-badge&color=29B6F6" alt="License"/>
+</p>
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You're free to use, distribute, and modify it with attribution.
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/rishabhkumaar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rishabhkumaar-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishabhkumaar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-rishabhkumaar-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/rishabhkumaar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-rishabhkumaaaar-e1306c?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@rishabhkumaar" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-rishabhkumaar-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/rishabhkumaar" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-rishabhkumaar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
