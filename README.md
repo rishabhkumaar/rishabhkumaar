@@ -1,18 +1,18 @@
-<!-- Banner -->
+<!-- Professional GitHub README for Rishabh Kumar -->
 
-<h1 align="center">Hi, I’m <span style="color:#00F7D3">Rishabh Kumar</span></h1>
-<h3 align="center"><em>Aspiring Developer | Technology Enthusiast | Continuous Learner</em></h3>
+<h1 align="center" style="color:#00F7D3;">Hi, I’m <span style="color:#00F7D3;">Rishabh Kumar</span></h1>
+<h3 align="center"><em>Aspiring Developer • Technology Enthusiast • Continuous Learner</em></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=00F7D3&center=true&vCenter=true&width=600&lines=Hello,+I'm+Rishabh+Kumar;Beginner+Web+Developer;Passionate+about+learning+and+building;Exploring+Python,+JavaScript,+and+Web+Development" alt="Typing SVG" />
 </p>
 
----
+<hr/>
 
 ## About Me
 
 <p align="center">
-  <img src="https://rishabhkumaar.github.io/html/resources/rishabh.jpg" alt="Rishabh Kumar" width="180" style="border-radius: 50%; box-shadow: 0 0 15px #00f7d3;">
+  <img src="https://rishabhkumaar.github.io/html/resources/rishabh.jpg" alt="Rishabh Kumar" width="160" style="border-radius: 50%; box-shadow: 0 0 15px #00f7d3;">
 </p>
 
 ```yaml
@@ -22,12 +22,12 @@ Focus: Strengthening fundamentals and creating meaningful projects
 Languages: [C, Python, HTML, CSS, JavaScript]
 Tools: [VSCode, Git, GitHub, Figma]
 Interests: Frontend Development, Web Technologies, Problem Solving
-Goal: To grow through consistent practice, collaboration, and contribution to open source
+Goal: To grow through consistent practice, collaboration, and open source
 ```
 
 ---
 
-## Technical Skills
+## Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,bash,vscode,flask,react,bootstrap,tailwind,nodejs,mysql,postgres,mongodb,figma,linux,windows&theme=dark" />
@@ -35,7 +35,7 @@ Goal: To grow through consistent practice, collaboration, and contribution to op
 
 ---
 
-## GitHub Insights
+## GitHub Overview
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishabhkumaar&show_icons=true&theme=tokyonight&count_private=true" />
@@ -43,20 +43,21 @@ Goal: To grow through consistent practice, collaboration, and contribution to op
 </div>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkumaar&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img style="height: 200px; margin-right: 20px; border-radius: 12px;" src="https://github-stats-alpha.vercel.app/api/?username=rishabhkumaar&cc=1a1b27&tc=fff&ic=00f7d3&bc=000" />
+  <img style="height: 200px; border-radius: 12px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumaar&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rishabhkumaar&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ---
 
-## Language Usage Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumaar&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
-
-## Featured Projects
+## Notable Projects
 
 <p align="center">
   <a href="https://github.com/rishabhkumaar/python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=python&theme=tokyonight" /></a>
@@ -65,22 +66,44 @@ Goal: To grow through consistent practice, collaboration, and contribution to op
 
 ---
 
-## Contribution Graph
+## Language Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkumaar&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumaar&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
 
-## Quotes that Inspire My Work
+## Achievements
 
-> *“First, solve the problem. Then, write the code.” – John Johnson*
-> *“The best way to predict the future is to invent it.” – Alan Kay*
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhkumaar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabhkumaar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabhkumaar&theme=tokyonight" />
+</p>
 
 ---
 
-## Connect With Me
+## Articles & Publications
+
+<details>
+  <summary>View Latest Posts</summary>
+  <p align="center">
+    <a href="https://dev.to/rishabhkumaar"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhkumaar/0" alt="Recent Article 1"></a>
+    <a href="https://dev.to/rishabhkumaar"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhkumaar/1" alt="Recent Article 2"></a>
+  </p>
+</details>
+
+---
+
+## Quotes I Live By
+
+> "First, solve the problem. Then, write the code." – John Johnson  
+> "The best way to predict the future is to invent it." – Alan Kay
+
+---
+
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/rishabhkumaar"><img src="https://img.shields.io/badge/GitHub-rishabhkumaar-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -92,7 +115,7 @@ Goal: To grow through consistent practice, collaboration, and contribution to op
 
 ---
 
-## Visitor Analytics
+## Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishabhkumaar&style=for-the-badge&color=29B6F6" alt="Visitor Count"/>
@@ -106,7 +129,6 @@ Goal: To grow through consistent practice, collaboration, and contribution to op
   <img src="https://img.shields.io/github/license/rishabhkumaar/html?style=for-the-badge&color=29B6F6" alt="License"/>
 </p>
 
-This project is distributed under the [MIT License](https://opensource.org/licenses/MIT).
-You are free to use, modify, and share it with appropriate attribution.
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). You may use, modify, and distribute it with proper attribution.
 
 ---
