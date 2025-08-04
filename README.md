@@ -30,7 +30,7 @@ Goal: To grow through consistent practice, collaboration, and contribution to op
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode,figma,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,bash,vscode,flask,react,bootstrap,tailwind,nodejs,mysql,postgres,mongodb,figma,linux,windows&theme=dark" />
 </p>
 
 ---
