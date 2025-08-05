@@ -40,7 +40,7 @@ Goal: To grow through consistent practice, collaboration, and open source
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishabhkumaar&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumaar&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=rishabhkumaar&theme=tokyonight" />
+  <!-- <img height="170" src="https://streak-stats.demolab.com/?user=rishabhkumaar&theme=tokyonight" /> -->
 </div>
 
 <p align="center">
