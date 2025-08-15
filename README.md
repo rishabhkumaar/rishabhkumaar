@@ -2,11 +2,9 @@
 
 <h1 align="center" style="color:#00F7D3;">Hi, I’m <span style="color:#00F7D3;">Rishabh Kumar</span></h1>
 <h3 align="center"><em>Aspiring Developer • Technology Enthusiast • Continuous Learner</em></h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=00F7D3&center=true&vCenter=true&width=600&lines=Hello,+I'm+Rishabh+Kumar;Beginner+Web+Developer;Passionate+about+learning+and+building;Exploring+Python,+JavaScript,+and+Web+Development" alt="Typing SVG" />
 </p>
-
 <hr/>
 
 ## About Me
