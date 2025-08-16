@@ -18,7 +18,7 @@ Name: Rishabh Kumar
 Role: Web & Software Development Enthusiast
 Focus: Strengthening fundamentals and creating meaningful projects
 Languages: [C, Python, HTML, CSS, JavaScript]
-Tools: [VSCode, Git, GitHub, Figma]
+Tools: [VSCode, Git, GitHub, Figma, AutoCAD]
 Interests: Frontend Development, Web Technologies, Problem Solving
 Goal: To grow through consistent practice, collaboration, and open source
 ```
@@ -28,7 +28,7 @@ Goal: To grow through consistent practice, collaboration, and open source
 ## Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,bash,vscode,flask,react,bootstrap,tailwind,nodejs,mysql,postgres,mongodb,figma,linux,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,bash,vscode,flask,react,bootstrap,tailwind,nodejs,mysql,postgres,mongodb,figma,autocad,linux,windows&theme=dark" />
 </p>
 
 ---
