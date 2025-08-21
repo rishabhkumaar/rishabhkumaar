@@ -61,6 +61,7 @@ Goal: To grow through consistent practice, collaboration, and open source
 <p align="center">
   <a href="https://github.com/rishabhkumaar/python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=python&theme=tokyonight" /></a>
   <a href="https://github.com/rishabhkumaar/html"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=html&theme=tokyonight" /></a>
+  <a href="https://github.com/rishabhkumaar/markdown"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhkumaar&repo=markdown&theme=tokyonight" /></a>
 </p>
 
 ---
