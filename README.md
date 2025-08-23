@@ -1,5 +1,3 @@
-<!-- Professional GitHub README for Rishabh Kumar -->
-
 <h1 align="center" style="color:#00F7D3;">Hi, I’m <span style="color:#00F7D3;">Rishabh Kumar</span></h1>
 <h3 align="center"><em>Aspiring Developer • Technology Enthusiast • Continuous Learner</em></h3>
 <p align="center">
