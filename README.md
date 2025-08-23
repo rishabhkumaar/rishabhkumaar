@@ -127,6 +127,6 @@ Goal: To grow through consistent practice, collaboration, and open source
   <img src="https://img.shields.io/github/license/rishabhkumaar/html?style=for-the-badge&color=29B6F6" alt="License"/>
 </p>
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). You may use, modify, and distribute it with proper attribution.
+This repository is licensed under the [MIT License](LICENSE). You may use, modify, and distribute it with proper attribution.
 
 ---
