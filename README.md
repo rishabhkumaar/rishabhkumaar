@@ -8,7 +8,7 @@
 ## About Me
 
 <p align="center">
-  <img src="https://rishabhkumaar.github.io/html/resources/rishabh.jpg" alt="Rishabh Kumar" width="160" style="border-radius: 50%; box-shadow: 0 0 15px #00f7d3;">
+  <img src="rishabh.jpg" alt="Rishabh Kumar" width="160" style="border-radius: 50%; box-shadow: 0 0 15px #00f7d3;">
 </p>
 
 ```yaml
