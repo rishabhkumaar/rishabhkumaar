@@ -8,7 +8,7 @@
 ## About Me
 
 <p align="center">
-  <img src="rishabh.jpg" alt="Rishabh Kumar" width="160" style="border-radius: 50%; box-shadow: 0 0 15px #00f7d3;">
+  <img src="icon.jpg" alt="Rishabh Kumar" width="160" style="border-radius: 50%; box-shadow: 0 0 15px #00f7d3;">
 </p>
 
 ```yaml
@@ -124,7 +124,7 @@ Goal: To grow through consistent practice, collaboration, and open source
 ## License
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/rishabhkumaar/html?style=for-the-badge&color=29B6F6" alt="License"/>
+  <img src="https://img.shields.io/github/license/rishabhkumaar/rishabhkumaar?style=for-the-badge&color=29B6F6" alt="License"/>
 </p>
 
 This repository is licensed under the [MIT License](LICENSE). You may use, modify, and distribute it with proper attribution.
