@@ -49,7 +49,7 @@ Goal: To grow through consistent practice, collaboration, and open source
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhkumaar&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=rishabhkumaar&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ---
