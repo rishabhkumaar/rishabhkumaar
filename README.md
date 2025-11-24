@@ -5,6 +5,14 @@
 </p>
 <hr/>
 
+## Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabhkumaar&style=for-the-badge&color=29B6F6" alt="Visitor Count"/>
+</p>
+
+---
+
 ## About Me
 <div style="display: flex;">
 <p align="center">
@@ -94,79 +102,81 @@ Goal: To grow through consistent practice, collaboration, and open source
 
 <p align="center">
 
-  <!-- GitHub -->
-  <a href="https://github.com/rishabhkumaar">
-    <img src="https://img.shields.io/badge/GitHub-rishabhkumaar-24292e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rishabhkumaar">
+        <img src="https://img.shields.io/badge/GitHub-rishabhkumaar-24292e?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/rishabhkumaar/">
+        <img src="https://img.shields.io/badge/LinkedIn-rishabhkumaar-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rishabhkumaar/">
-    <img src="https://img.shields.io/badge/LinkedIn-rishabhkumaar-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <tr>
+    <td align="center">
+      <a href="https://www.figma.com/@rishabhkumaar">
+        <img src="https://img.shields.io/badge/Figma-rishabhkumaar-0acf83?style=for-the-badge&logo=figma&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://rishabhkumaar.github.io/html/">
+        <img src="https://img.shields.io/badge/Portfolio-rishabhkumaar-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-  <!-- Figma -->
-  <a href="https://www.figma.com/@rishabhkumaar">
-    <img src="https://img.shields.io/badge/Figma-rishabhkumaar-0acf83?style=for-the-badge&logo=figma&logoColor=white" />
-  </a>
+  <tr>
+    <td align="center">
+      <a href="https://stackoverflow.com/users/31430764/rishabhkumaar">
+        <img src="https://img.shields.io/badge/StackOverflow-rishabhkumaar-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/rishabhkumaar">
+        <img src="https://img.shields.io/badge/HackerRank-rishabhkumaar-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-  <!-- GitHub Pages / Portfolio -->
-  <a href="https://rishabhkumaar.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-rishabhkumaar-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <tr>
+    <td align="center">
+      <a href="https://www.hackerearth.com/@rishabhkumaar/">
+        <img src="https://img.shields.io/badge/HackerEarth-rishabhkumaar-323754?style=for-the-badge&logo=hackerearth&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/rishabhkumaar/">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-rishabhkumaar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-  <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/31430764/rishabhkumaar">
-    <img src="https://img.shields.io/badge/StackOverflow-rishabhkumaar-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/rishabhkumaar/">
+        <img src="https://img.shields.io/badge/LeetCode-rishabhkumaar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.quora.com/profile/Rishabhkumaar/">
+        <img src="https://img.shields.io/badge/Quora-rishabhkumaar-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/rishabhkumaar">
-    <img src="https://img.shields.io/badge/HackerRank-rishabhkumaar-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://www.codechef.com/users/rishabhkumaar">
+        <img src="https://img.shields.io/badge/CodeChef-rishabhkumaar-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-  <!-- HackerEarth -->
-  <a href="https://www.hackerearth.com/@rishabhkumaar/">
-    <img src="https://img.shields.io/badge/HackerEarth-rishabhkumaar-323754?style=for-the-badge&logo=hackerearth&logoColor=white" />
-  </a>
-
-  <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/user/rishabhkumaar/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-rishabhkumaar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/rishabhkumaar/">
-    <img src="https://img.shields.io/badge/LeetCode-rishabhkumaar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-  <!-- Quora -->
-  <a href="https://www.quora.com/profile/Rishabhkumaar/">
-    <img src="https://img.shields.io/badge/Quora-rishabhkumaar-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
-  </a>
-
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/rishabhkumaar">
-    <img src="https://img.shields.io/badge/CodeChef-rishabhkumaar-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+</table>
 
 </p>
 
----
-
-## Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishabhkumaar&style=for-the-badge&color=29B6F6" alt="Visitor Count"/>
-</p>
-
----
-
-## License
-
-<p align="center">
-  <img src="https://img.shields.io/github/license/rishabhkumaar/rishabhkumaar?style=for-the-badge&color=29B6F6" alt="License"/>
-</p>
-
-This repository is licensed under the [MIT License](LICENSE). You may use, modify, and distribute it with proper attribution.
-
----
