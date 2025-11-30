@@ -18,8 +18,8 @@
 Name: Rishabh Kumar
 Role: Web and Software Development Enthusiast
 Focus: Building fundamentals and meaningful projects
-Languages: [C, Python, HTML, CSS, JavaScript]
-Tools: [VSCode, Git, GitHub, Figma, AutoCAD]
+Languages: C, Python, HTML, CSS, JavaScript
+Tools: VSCode, Git, GitHub, Figma, AutoCAD
 Interests: Web Development, Problem Solving
 Goal: Grow through consistent practice and collaboration
 ````
